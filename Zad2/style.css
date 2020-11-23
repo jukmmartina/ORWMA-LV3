@@ -37,21 +37,21 @@ html {
 }
 h2 p{
   margin: 0px;
-}
+} /*stiliziranje h2 i p elemenata*/
 article{
   height: 120px;
   background-color: rgba(0,0,0,0.5);
-}
+} /*stiliziranje article elemenata*/
 h2{
   font-size: 20px;
   line-height: 0.75; /* 15/20*/
-}
+} /*stiliziranje samo h2 elemenata*/
 footer > p{
   font-size: 15px;
   line-height: 1; /*15/15*/
-}
+} /*stiliziranje p elemenata koja su djeca footeru*/
 article>p{
   padding-left: 0px ;
   color: #ccc;
-}
+}/*stiliziranje p elemenata koji se nalaze unutar article*/
 
